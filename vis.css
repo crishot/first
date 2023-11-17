@@ -37,10 +37,11 @@ font-weight: bold;
 .inline {
 
 display: inline;
+font-weight: bold;
 
 }
 
-font-weight: bold;
+
 
 .block { display: block; font-weight: bold;
 
