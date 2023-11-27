@@ -23,12 +23,16 @@ margin-bottom: 10px;
 background-color: aqua;
 
 height: 200px;
+width: 100%;
+
+filter: grayscale (50%) invert (60%);
 
 }
 
 .content {
 
-background-color: rgb(246, 213, 213); height: 400px;
+background-color: rgb(246, 213, 213);
+  height: 400px;
 }
 .footer {
 
@@ -42,10 +46,4 @@ height: 100px;
 
 
 
-img {
 
-width: 100%;
-
-filter: grayscale (100%) invert (100%);
-
-}
